@@ -1,0 +1,1 @@
+Doing Python at ALX for the first time, this should be fun let my python journey begin. Python is a easy to learn powerful programming language, It has efficient high-level data structures and a simple but effective approach to object-oriented programming.
